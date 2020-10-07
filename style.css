@@ -1,12 +1,12 @@
 @font-face {
-  font-family: 'Jenna Sue';
-  font-style: normal;
-  font-weight: normal;
-  src: url('https://fonts.cdnfonts.com/s/13767/JennaSue.woff') format('woff');
-}
-@font-face {
   font-family: 'Lifehack';
   font-style: normal;
   font-weight: normal;
   src: url('https://github.com/hrzhanovska/tilda/blob/main/Lifehack-Medium.woff?raw=true') format('woff');
+}
+@font-face {
+  font-family: 'Jenna Sue';
+  font-style: normal;
+  font-weight: normal;
+  src: url('https://fonts.cdnfonts.com/s/13767/JennaSue.woff') format('woff');
 }
